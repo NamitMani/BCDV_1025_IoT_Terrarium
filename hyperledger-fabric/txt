@@ -1,3 +1,67 @@
+System setup and installation of prerequisites
+
+Update package lists:
+ sudo apt update
+
+Upgrade installed packages: 
+sudo apt -y upgrade
+
+Install curl: 
+sudo apt install curl
+
+Install git:
+ sudo apt install git
+
+Install python:
+ sudo apt install python
+
+Install Go and jq: 
+Sudo apt-get install jq
+Sudo apt-get install golang
+
+Install additional dependencies:
+ sudo apt install apt-transport-https ca-certificates gnupg-agent software-properties-common
+
+Install Docker: 
+Import Docker's GPG key: 
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+Add Docker repository: 
+sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+Update package lists: 
+sudo apt update
+Install Docker: 
+sudo apt -y install docker-ce
+Add user to the docker group: 
+sudo usermod -aG docker <username>
+Install Docker Compose:
+Download Docker Compose: 
+sudo curl -L https://github.com/docker/compose/releases/download/1.27.4/docker-compose-$(uname -s)-$(uname -m) -o /usr/local/bin/docker-compose
+Set executable permissions: sudo chmod +x /usr/local/bin/docker-compose
+
+Clone Hyperledger Fabric Samples:
+Clone the repository: 
+git clone https://github.com/hyperledger/fabric-samples.git
+Change to the cloned directory: 
+cd fabric-samples
+Set up the Test Network:
+Run the bootstrap script: 
+curl -sSL https://raw.githubusercontent.com/hyperledger/fabric/main/scripts/bootstrap.sh | bash -s
+Change to the test network directory:
+ cd fabric-samples/test-network
+
+
+Deploying the chaincode
+
+Bring down the network:
+ ./network.sh down
+
+Bring up the network and create a channel: 
+./network.sh up createChannel -ca -s couchdb
+
+Deploy the chaincode: 
+./network.sh deployCC -ccn autorium_iot -ccv 1.0 -ccp ../../autorium/autorium -ccl javascript
+
+
 peer chaincode invoke \
     -o localhost:7050 \
     --ordererTLSHostnameOverride orderer.example.com \
@@ -14,3 +78,4 @@ peer chaincode invoke \
     -C mychannel \
     -n terrarium_monitor \
     -c '{"function":"listAccounts", "Args":[]}'
+
