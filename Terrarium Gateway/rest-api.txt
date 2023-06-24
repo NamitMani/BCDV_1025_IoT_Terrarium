@@ -1,0 +1,12 @@
+Steps to test the Rest API:
+
+cd balance_transfer_app
+node app.js
+
+Open port 3000 in virtual machine.
+
+For calling ListAccounts:
+http://<IP ADDRESS OF VM>:3000/submitTx?identity=User2@org1.example.com&function=listAccounts
+
+For calling transfer:
+http://<IP ADDRESS OF VM>:3000/submitTx?identity=User2@org1.example.com&function=transfer&from=acc2&to=acc1&amount=1
