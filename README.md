@@ -3,10 +3,10 @@
 
 Team Members
 - Namit Mani					#101383808 (Blockchain/Chaincode Developer)
-- Aniket Sirivastra        #101469899
-- Fawaz Malik					#101461582
-- BADARUDDIN KHUHRO 	      #101467663
-- HEMANTH KUMAR Pothuri  	#101464127
+- Aniket Srivastava        #101469899 (Business Analyst)
+- Fawaz Malik					#101461582 (Architect)
+- BADARUDDIN KHUHRO 	      #101467663 (Co-Front End Developer)
+- HEMANTH KUMAR Pothuri  	#101464127 (Co-Front End Developer)
 
 
 This project implements a blockchain solution using Hyperledger Fabric to facilitate secure and transparent purchase transactions between shop owners and customers in the terrarium IoT industry. The blockchain enables efficient communication, inventory management, and real-time monitoring of IoT devices.
