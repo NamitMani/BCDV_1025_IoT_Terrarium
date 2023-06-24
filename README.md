@@ -2,32 +2,49 @@
 # Terrarium IoT Blockchain Project:
 
 ## Team Members Roles
-- NAMIT MANI
-  Student ID #101383808
-  Roles: Chaincode Developer
+**- NAMIT MANI**
+  **Student ID** #101383808
+  **Roles:** Chaincode Developer
 
 
-- ANIKET SRIVASTAVA
-  Student ID #101469899
-  Roles: Architect
+- **ANIKET SRIVASTAVA**
+  **Student ID** #101469899
+  **Roles:** Architect
 
 
-- FAWAZ MALIK
-  Student ID #101461582
-  Roles: Business Analyst
+- **FAWAZ MALIK**
+  **Student ID** #101461582
+  **Roles:** Business Analyst
 
 
-- BADARUDDIN KHUHRO
-  Student ID #101467663
-  Roles: Lead Front End Developer
+- **BADARUDDIN KHUHRO**
+  **Student ID** #101467663
+  **Roles:** Lead Front End Developer
 
 
 - HEMANTH KUMAR VARMA POTHURI
-  Student ID #101464127
-  Roles: co-Front End Developer + co-Business Analyst
+  **Student ID** #101464127
+  **Roles:** co-Front End Developer + co-Business Analyst
 
 
 This project implements a blockchain solution using Hyperledger Fabric to facilitate secure and transparent purchase transactions between shop owners and customers in the terrarium IoT industry. The blockchain enables efficient communication, inventory management, and real-time monitoring of IoT devices.
+
+
+## Requirements
+**Features (Function)**
+
+BuyPet (Pet Name, ID)
+BuyTank (Name, ID)
+SellTank (Tank Name, ID),  
+SellPet (Pet Name, ID) 
+SetupTank (IoT device NAME, ID)
+Update Inventory (Item_ID, Item_Name)
+Sell IoT device( Device_Name, ID)
+Make IoT device ( Device_Name, ID)
+Make Tank ( Tank_Name, ID)
+Provide service (Service_ID,)
+
+
 
 ## Business Use Case
 
@@ -82,6 +99,7 @@ The project workflow had following implementations:
 6. At the shop, the customer can test the IoT device by clicking the "Start tank" button on the front-end application.
 7. Real-time data from the IoT device is collected and stored on the blockchain, providing health and safety monitoring for the pet.
 8. Both the shop owner and customer can access the transaction details and IoT device data on the blockchain, ensuring transparency and trust.
+
 
 ## Project Components
 
