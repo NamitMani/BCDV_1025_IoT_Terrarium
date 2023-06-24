@@ -62,6 +62,22 @@ Deploy the chaincode:
 ./network.sh deployCC -ccn autorium_monitor_ -ccv 1.0 -ccp ../../autorium/autorium_monitor -ccl javascript
 
 
+The functionality of the Chainccode smart contract:
+
+The code defines a custom contract named MyContract, which extends the Contract class from the fabric-contract-api package.
+The initLedger function initializes the ledger with sample device data. It creates and stores device objects with their respective device IDs, owners, and sensor data.
+
+The queryDevice function allows querying for a specific device by its device ID. It retrieves the device's data from the ledger and returns it.
+
+The createDevice function creates a new device by providing a device ID and owner. It creates a device object with empty sensor data and stores it in the ledger.
+
+The recordSensorData function allows recording sensor data for a specific device. It retrieves the device's data from the ledger, appends the new sensor data to the existing data, and updates the ledger with the modified device object.
+
+The getAllDevices function retrieves all devices stored in the ledger. It iterates over the range of keys in the ledger and retrieves each device's data, collecting them into an array. The array of devices is then returned as a JSON string.
+
+
+
+
 
 peer chaincode invoke \
     -o localhost:7050 \
