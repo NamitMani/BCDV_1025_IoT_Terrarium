@@ -1,5 +1,5 @@
 
-# Terrarium IoT Blockchain Project
+# Terrarium IoT Blockchain Project:
 
 Team Members
 - Namit Mani					#101383808
