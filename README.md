@@ -72,9 +72,7 @@ The project consists of the following components:
 2. Smart Contracts:
    - Define the business logic and rules for purchase transactions and inventory management.
    - Manage permissions and access control for shop owners, customers, and IoT device manufacturers.
-   - Record transaction
-
- details and IoT device data on the Hyperledger Fabric blockchain.
+   - Record transaction details and IoT device data on the Hyperledger Fabric blockchain.
 
 3. Blockchain Network:
    - Implements the Hyperledger Fabric blockchain framework for secure and decentralized transaction processing.
