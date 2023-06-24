@@ -2,11 +2,11 @@
 # Terrarium IoT Blockchain Project
 
 Teams
-Namit Mani					#101383808
-Aniket Sirivastra       #101469899
-Fawaz Malik					#101461582
-BADARUDDIN KHUHRO 	   #101467663
-HEMANTH KUMAR Pothuri  	#101464127
+### Namit Mani					#101383808
+### Aniket Sirivastra       #101469899
+### Fawaz Malik					#101461582
+### BADARUDDIN KHUHRO 	   #101467663
+### HEMANTH KUMAR Pothuri  	#101464127
 
 
 This project implements a blockchain solution using Hyperledger Fabric to facilitate secure and transparent purchase transactions between shop owners and customers in the terrarium IoT industry. The blockchain enables efficient communication, inventory management, and real-time monitoring of IoT devices.
