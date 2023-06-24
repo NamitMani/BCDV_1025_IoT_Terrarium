@@ -44,6 +44,17 @@ Make IoT device ( Device_Name, ID) <br>
 Make Tank ( Tank_Name, ID) <br> 
 Provide service (Service_ID,) <br>
 
+**Reasons**
+1. Enhanced traceability of pets, tanks, and IoT devices.
+2. Improved inventory management for shop owners and manufacturers.
+3. Real-time monitoring and safety features for terrariums.
+4. Streamlined buying and selling processes.
+5. Creation of a secure and trusted environment for all participants.
+6. Efficient supply chain management among manufacturers, shop owners, and customers.
+7. Ensuring product quality and minimizing the risk of recalls.
+8. Transparency in transactions and activities recorded on the blockchain.
+9. Facilitating remote monitoring and control of terrariums.
+10. Leveraging blockchain technology for improved efficiency and customer satisfaction.
 
 
 ## Business Use Case
@@ -72,7 +83,7 @@ The primary objective of this blockchain implementation is to enhance the purcha
 
 The project workflow had following implementations:
 -3 organizations: Manufacturer, PetOwner, Shopowner
--1 Channel: 1 channel named 
+-1 Channel: 1 channel named mychannel
 
 ## User Roles
 
