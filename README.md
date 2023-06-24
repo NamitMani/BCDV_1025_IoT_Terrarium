@@ -2,7 +2,7 @@
 # Terrarium IoT Blockchain Project:
 
 ## Team Members Roles
-**- NAMIT MANI**
+-  **NAMIT MANI**
   **Student ID** #101383808
   **Roles:** Chaincode Developer
 
