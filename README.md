@@ -2,10 +2,10 @@
 # Terrarium IoT Blockchain Project
 
 Teams
-Fawaz Malik							#101461582
-Namit Mani							#101383808
+Namit Mani					#101383808
 Aniket Sirivastra       #101469899
-BADARUDDIN KHUHRO 	    #101467663
+Fawaz Malik					#101461582
+BADARUDDIN KHUHRO 	   #101467663
 HEMANTH KUMAR Pothuri  	#101464127
 
 
