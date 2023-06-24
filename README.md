@@ -89,3 +89,13 @@ The project consists of the following components:
 ## Conclusion
 
 The terrarium IoT blockchain project leverages Hyperledger Fabric to streamline purchase transactions, enhance inventory management, and enable real-time monitoring of IoT devices. By providing secure and transparent transactions, the project aims to improve the overall customer experience and promote trust in the terrarium IoT industry.
+
+
+
+
+## SNAPSHOTS OF THE PROJECT
+1. API AND POSTMAN REQUESTS
+![API and POSTMAN REQUEST](https://github.com/NamitMani/BCDV_1025_IoT_Terrarium/assets/90002484/a80d0af5-b01a-4903-9955-7c6f251d7089)
+  
+2. REPONSE RECIEVED BY THE BLOCKCHAIN
+![Application - Part 2 - Blockchain receives response](https://github.com/NamitMani/BCDV_1025_IoT_Terrarium/assets/90002484/c942ae3d-0749-4934-a160-ad186fa1b33f)
