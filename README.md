@@ -3,7 +3,7 @@
 
 Team Members (Roles)
 - Namit Mani					#101383808 (Chaincode Developer + Full Stack Developer)
-- Aniket Sirivastra        #101469899 (Architect + Business Analyst)
+- Aniket Srivastava        #101469899 (Architect + Business Analyst)
 - Fawaz Malik					#101461582 (Business Analyst)
 - BADARUDDIN KHUHRO 	      #101467663 (Lead Front End Developer)
 - HEMANTH KUMAR Pothuri  	#101464127 (co-front end developer + co-Architect)
