@@ -22,7 +22,7 @@
   **Roles:** Lead Front End Developer <br>
 
 
-- HEMANTH KUMAR VARMA POTHURI <br>
+- **HEMANTH KUMAR VARMA POTHURI** <br>
   **Student ID** #101464127 <br>
   **Roles:** co-Front End Developer + co-Business Analyst <br>
 
@@ -35,7 +35,7 @@ This project implements a blockchain solution using Hyperledger Fabric to facili
 
 BuyPet (Pet Name, ID) <br>
 BuyTank (Name, ID) <br>
-SellTank (Tank Name, ID) <br>  
+SellTank (Tank Name, ID) <br>
 SellPet (Pet Name, ID)  <br>
 SetupTank (IoT device NAME, ID) <br>
 Update Inventory (Item_ID, Item_Name) <br>
