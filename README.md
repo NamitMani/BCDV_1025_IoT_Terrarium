@@ -2,7 +2,7 @@
 # Terrarium IoT Blockchain Project:
 
 Team Members
-- Namit Mani					#101383808
+- Namit Mani					#101383808 (Blockchain/Chaincode Developer)
 - Aniket Sirivastra        #101469899
 - Fawaz Malik					#101461582
 - BADARUDDIN KHUHRO 	      #101467663
