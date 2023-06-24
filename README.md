@@ -2,7 +2,7 @@
 # Terrarium IoT Blockchain Project:
 
 Team Members
-- Namit Mani					#101383808 (Blockchain/Chaincode Developer)
+- Namit Mani					#101383808 
 - Aniket Sirivastra        #101469899
 - Fawaz Malik					#101461582
 - BADARUDDIN KHUHRO 	      #101467663
@@ -34,6 +34,10 @@ The primary objective of this blockchain implementation is to enhance the purcha
 5. Real-time Monitoring of IoT Devices:
    - Each terrarium tank sold includes an IoT device for health and safety monitoring.
    - Customers can test the IoT device at the shop using the "Start tank" button on the front-end application, initiating real-time data collection and monitoring.
+
+The project workflow had following implementations:
+-3 organizations: Manufacturer, PetOwner, Shopowner
+-1 Channel: 1 channel named 
 
 ## User Roles
 
