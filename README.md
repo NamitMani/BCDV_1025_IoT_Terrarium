@@ -2,15 +2,29 @@
 # Terrarium IoT Blockchain Project:
 
 ## Team Members Roles
-- NAMIT MANI					            #101383808 Roles: Chaincode Developer
+- NAMIT MANI
+  Student ID #101383808
+  Roles: Chaincode Developer
 
-- ANIKET SRIVASTAVA                    #101469899 Roles: Architect
 
-- FAWAZ MALIK					            #101461582 Roles: Business Analyst
+- ANIKET SRIVASTAVA
+  Student ID #101469899
+  Roles: Architect
 
-- BADARUDDIN KHUHRO 	                  #101467663 Roles: Lead Front End Developer
 
-- HEMANTH KUMAR VARMA POTHURI  	      #101464127 Roles: co-Front End Developer + co-Business Analyst
+- FAWAZ MALIK
+  Student ID #101461582
+  Roles: Business Analyst
+
+
+- BADARUDDIN KHUHRO
+  Student ID #101467663
+  Roles: Lead Front End Developer
+
+
+- HEMANTH KUMAR VARMA POTHURI
+  Student ID #101464127
+  Roles: co-Front End Developer + co-Business Analyst
 
 
 This project implements a blockchain solution using Hyperledger Fabric to facilitate secure and transparent purchase transactions between shop owners and customers in the terrarium IoT industry. The blockchain enables efficient communication, inventory management, and real-time monitoring of IoT devices.
