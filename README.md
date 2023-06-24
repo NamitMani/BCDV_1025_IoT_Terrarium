@@ -2,29 +2,29 @@
 # Terrarium IoT Blockchain Project:
 
 ## Team Members Roles
--  **NAMIT MANI**
-  **Student ID** #101383808
-  **Roles:** Chaincode Developer
+-  **NAMIT MANI** <br>
+  **Student ID** #101383808 <br>
+  **Roles:** Chaincode Developer <br>
 
 
-- **ANIKET SRIVASTAVA**
-  **Student ID** #101469899
-  **Roles:** Architect
+- **ANIKET SRIVASTAVA** <br>
+  **Student ID** #101469899 <br>
+  **Roles:** Architect <br>
 
 
-- **FAWAZ MALIK**
-  **Student ID** #101461582
-  **Roles:** Business Analyst
+- **FAWAZ MALIK** <br>
+  **Student ID** #101461582 <br>
+  **Roles:** Business Analyst <br>
 
 
-- **BADARUDDIN KHUHRO**
-  **Student ID** #101467663
-  **Roles:** Lead Front End Developer
+- **BADARUDDIN KHUHRO** <br>
+  **Student ID** #101467663 <br>
+  **Roles:** Lead Front End Developer <br>
 
 
-- HEMANTH KUMAR VARMA POTHURI
-  **Student ID** #101464127
-  **Roles:** co-Front End Developer + co-Business Analyst
+- HEMANTH KUMAR VARMA POTHURI <br>
+  **Student ID** #101464127 <br>
+  **Roles:** co-Front End Developer + co-Business Analyst <br>
 
 
 This project implements a blockchain solution using Hyperledger Fabric to facilitate secure and transparent purchase transactions between shop owners and customers in the terrarium IoT industry. The blockchain enables efficient communication, inventory management, and real-time monitoring of IoT devices.
@@ -33,16 +33,16 @@ This project implements a blockchain solution using Hyperledger Fabric to facili
 ## Requirements
 **Features (Function)**
 
-BuyPet (Pet Name, ID)
-BuyTank (Name, ID)
-SellTank (Tank Name, ID),  
-SellPet (Pet Name, ID) 
-SetupTank (IoT device NAME, ID)
-Update Inventory (Item_ID, Item_Name)
-Sell IoT device( Device_Name, ID)
-Make IoT device ( Device_Name, ID)
-Make Tank ( Tank_Name, ID)
-Provide service (Service_ID,)
+BuyPet (Pet Name, ID) <br>
+BuyTank (Name, ID) <br>
+SellTank (Tank Name, ID) <br>  
+SellPet (Pet Name, ID)  <br>
+SetupTank (IoT device NAME, ID) <br>
+Update Inventory (Item_ID, Item_Name) <br>
+Sell IoT device( Device_Name, ID) <br>
+Make IoT device ( Device_Name, ID) <br>
+Make Tank ( Tank_Name, ID) <br> 
+Provide service (Service_ID,) <br>
 
 
 
