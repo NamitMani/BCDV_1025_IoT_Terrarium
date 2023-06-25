@@ -4,7 +4,7 @@
 ## Team Members Roles
 -  **NAMIT MANI** <br>
   **Student ID** #101383808 <br>
-  **Roles:** Lead Chaincode Developer + Co Front End Developer <br>
+  **Roles:** Lead Chaincode Developer + co-Front End Developer <br>
 
 
 - **ANIKET SRIVASTAVA** <br>
